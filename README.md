@@ -2,7 +2,7 @@
 
 ---
 
-![Design preview for product preview card challenge](\assets\image\desktop-preview.jpg)
+![Design preview for product preview card challenge](/assets/image/desktop-preview.jpg)
 
 ## Table of Contents
 
