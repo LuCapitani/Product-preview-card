@@ -7,9 +7,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
+  - [Links](#links)
   - [Challenge](#challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)

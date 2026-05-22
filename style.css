@@ -126,7 +126,11 @@
 .add-cart:hover {
     background-color: var(--Green-700);
 }
-
+.add-cart:focus-visible {
+  outline: 2px solid var(--Black);
+  outline-offset: 2px;
+  background-color: var(--Green-700);
+}
 /* Tablet (768px - 1024px) */
 @media (max-width: 1024px) {
     .content-perfume {
