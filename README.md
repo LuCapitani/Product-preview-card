@@ -2,6 +2,8 @@
 
 ---
 
+This is a solution to the [Product Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-). It is a responsive product card displaying a perfume product with pricing and an "Add to Cart" button.
+
 ![Design preview for product preview card challenge](/assets/image/desktop-preview.jpg)
 
 ## Table of Contents
