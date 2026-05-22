@@ -2,7 +2,7 @@
 
 ---
 
-![Design preview for product preview card challenge](assets/image/image/desktop-preview.jpg)
+![Design preview for product preview card challenge](\assets\image\desktop-preview.jpg)
 
 ## Table of Contents
 
@@ -33,13 +33,13 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop Version
+### Desktop Version
 
 ![Design preview for product preview card desktop](/assets/image/product-preview-card-desktop.png)
 
 ---
 
-Mobile Version
+### Mobile Version
 
 ![Design preview for product preview card mobile](/assets/image/product-preview-card-mobile.png)
 
